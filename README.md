@@ -1,5 +1,5 @@
 # magma-webclone
-![Uploading Screenshot .png…](https://magma-webclone.vercel.app/)
+![Uploading Screenshot .png…]()
 
 have a look -
 https://magma-webclone.vercel.app/
